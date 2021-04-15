@@ -1,4 +1,4 @@
-package main.java.solution;
+package leetcode.editor.cn;
 
 import java.util.Collection;
 import java.util.HashMap;
